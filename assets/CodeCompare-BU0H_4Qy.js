@@ -1,0 +1,1 @@
+import{t as e}from"./index-C-72bdKm.js";import{t}from"./CompareToolBase-Ds8AOvDv.js";var n=e();function r(){return(0,n.jsx)(t,{title:`Code Compare`,description:`قارن بين كودين برمجيين واكتشف الفروقات سطرًا بسطر`})}export{r as default};

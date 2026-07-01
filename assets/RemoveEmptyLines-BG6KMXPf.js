@@ -1,0 +1,7 @@
+import{t as e}from"./index-C-72bdKm.js";import{t}from"./TransformTool-B66bGKTk.js";var n=e();function r(){return(0,n.jsx)(t,{title:`Remove Empty Lines`,description:`إزالة الأسطر الفارغة من النص`,placeholder:`apple
+
+banana
+
+orange`,transform:e=>({output:e.split(`
+`).filter(e=>e.trim()!==``).join(`
+`)})})}export{r as default};
