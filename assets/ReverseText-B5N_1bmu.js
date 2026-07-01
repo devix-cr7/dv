@@ -1,1 +1,0 @@
-import{t as e}from"./index-C-72bdKm.js";import{t}from"./TransformTool-B66bGKTk.js";var n=e();function r(){return(0,n.jsx)(t,{title:`Reverse Text`,description:`اعكس اتجاه النص حرفًا بحرف`,placeholder:`Hello World`,transform:e=>({output:e.split(``).reverse().join(``)})})}export{r as default};

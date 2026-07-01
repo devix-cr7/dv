@@ -1,0 +1,2 @@
+import{r as e}from"./index-BG5ObeJh.js";import{t}from"./TransformTool-DgP_H7Jq.js";import{s as n}from"./utils-bKL6RO1S.js";var r=e();function i(){return(0,r.jsx)(t,{title:`YAML Formatter`,description:`نسّق ملفات YAML وأعد تنظيمها بشكل قياسي`,placeholder:`name: Seif
+age: 21`,downloadFilename:`formatted.yaml`,downloadMime:`text/yaml`,transform:e=>n(e)})}export{i as default};

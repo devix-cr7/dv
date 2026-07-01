@@ -1,0 +1,2 @@
+import{r as e}from"./index-BG5ObeJh.js";import{t}from"./TransformTool-DgP_H7Jq.js";import{i as n}from"./utils-bKL6RO1S.js";var r=e();function i(){return(0,r.jsx)(t,{title:`Markdown Formatter`,description:`نسّق ملفات Markdown حسب الأسلوب القياسي`,placeholder:`# عنوان
+نص   تجريبي`,downloadFilename:`formatted.md`,downloadMime:`text/markdown`,transform:n})}export{i as default};

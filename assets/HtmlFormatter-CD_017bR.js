@@ -1,0 +1,1 @@
+import{r as e}from"./index-BG5ObeJh.js";import{t}from"./TransformTool-DgP_H7Jq.js";import{n}from"./utils-bKL6RO1S.js";var r=e();function i(){return(0,r.jsx)(t,{title:`HTML Formatter`,description:`نسّق أكواد HTML لجعلها منظمة وسهلة القراءة`,placeholder:`<div><p>Hello</p></div>`,downloadFilename:`formatted.html`,downloadMime:`text/html`,transform:n})}export{i as default};

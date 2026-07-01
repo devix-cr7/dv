@@ -1,1 +1,0 @@
-import{t as e}from"./index-C-72bdKm.js";import{t}from"./TransformTool-B66bGKTk.js";import{i as n}from"./utils-BsRx-oI9.js";var r=e();function i(){return(0,r.jsx)(t,{title:`SHA1 Generator`,description:`ولّد بصمة SHA1 لأي نص فوريًا`,placeholder:`اكتب النص هنا...`,rows:4,transform:n})}export{i as default};

@@ -1,0 +1,1 @@
+import{r as e}from"./index-BG5ObeJh.js";import{l as t,n,t as r}from"./utils-CQJ_d-68.js";var i=e();function a(){return(0,i.jsx)(t,{title:`Base64 Encode / Decode`,description:`رمّز أو فك ترميز النصوص بصيغة Base64`,encode:n,decode:r,placeholder:`اكتب النص هنا...`})}export{a as default};

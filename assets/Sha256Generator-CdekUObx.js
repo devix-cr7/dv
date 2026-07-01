@@ -1,0 +1,1 @@
+import{r as e}from"./index-BG5ObeJh.js";import{t}from"./TransformTool-DgP_H7Jq.js";import{a as n}from"./utils-49EXUTDp.js";var r=e();function i(){return(0,r.jsx)(t,{title:`SHA256 Generator`,description:`ولّد بصمة SHA256 لأي نص فوريًا`,placeholder:`اكتب النص هنا...`,rows:4,transform:n})}export{i as default};

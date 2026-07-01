@@ -1,0 +1,1 @@
+import{r as e}from"./index-BG5ObeJh.js";import{i as t,n}from"./utils-BoizKiVf.js";var r=e();function i(){return(0,r.jsx)(t,{title:`XML Validator`,description:`تحقق من صحة بنية مستندات XML`,placeholder:`<root><item>1</item></root>`,validate:n})}export{i as default};

@@ -1,0 +1,1 @@
+import{r as e}from"./index-BG5ObeJh.js";import{t}from"./TransformTool-DgP_H7Jq.js";import{a as n}from"./utils-80dPNLc7.js";var r=e();function i(){return(0,r.jsx)(t,{title:`JSON to XML`,description:`حوّل بيانات JSON إلى صيغة XML منظمة`,placeholder:`{"user": {"name": "Seif", "age": 21}}`,downloadFilename:`data.xml`,downloadMime:`application/xml`,transform:n})}export{i as default};

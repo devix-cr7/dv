@@ -1,1 +1,0 @@
-import{t as e}from"./index-C-72bdKm.js";import{i as t,l as n,r}from"./utils-DnpkSCl3.js";var i=e();function a(){return(0,i.jsx)(n,{title:`HTML Encode / Decode`,description:`رمّز أو فك ترميز رموز HTML الخاصة`,encode:t,decode:r,placeholder:`<div>Hello & welcome</div>`})}export{a as default};

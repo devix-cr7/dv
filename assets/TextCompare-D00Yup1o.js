@@ -1,0 +1,1 @@
+import{r as e}from"./index-BG5ObeJh.js";import{t}from"./CompareToolBase-RKana0ta.js";var n=e();function r(){return(0,n.jsx)(t,{title:`Text Compare`,description:`قارن بين نصين واكتشف الفروقات سطرًا بسطر`})}export{r as default};

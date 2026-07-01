@@ -1,0 +1,1 @@
+import{r as e}from"./index-BG5ObeJh.js";import{c as t,l as n,s as r}from"./utils-CQJ_d-68.js";var i=e();function a(){return(0,i.jsx)(n,{title:`URL Encode / Decode`,description:`رمّز أو فك ترميز الروابط (URL)`,encode:t,decode:r,placeholder:`https://example.com/?q=مرحبا`})}export{a as default};

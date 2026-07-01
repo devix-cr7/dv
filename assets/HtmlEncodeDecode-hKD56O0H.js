@@ -1,0 +1,1 @@
+import{r as e}from"./index-BG5ObeJh.js";import{i as t,l as n,r}from"./utils-CQJ_d-68.js";var i=e();function a(){return(0,i.jsx)(n,{title:`HTML Encode / Decode`,description:`رمّز أو فك ترميز رموز HTML الخاصة`,encode:t,decode:r,placeholder:`<div>Hello & welcome</div>`})}export{a as default};

@@ -1,0 +1,2 @@
+import{r as e}from"./index-BG5ObeJh.js";import{i as t,r as n}from"./utils-BoizKiVf.js";var r=e();function i(){return(0,r.jsx)(t,{title:`YAML Validator`,description:`تحقق من صحة بنية ملفات YAML`,placeholder:`name: Seif
+age: 21`,validate:n})}export{i as default};

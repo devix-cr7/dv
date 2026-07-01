@@ -1,1 +1,0 @@
-import{t as e}from"./index-C-72bdKm.js";import{t}from"./TransformTool-B66bGKTk.js";import{t as n}from"./utils-DfJovHbO.js";var r=e();function i(){return(0,r.jsx)(t,{title:`CSS Minifier`,description:`صغّر حجم CSS بإزالة التعليقات والمسافات الزائدة`,placeholder:`.box {\\n  color: red;\\n}`,downloadFilename:`minified.css`,downloadMime:`text/css`,transform:n})}export{i as default};

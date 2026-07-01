@@ -1,0 +1,1 @@
+import{r as e}from"./index-BG5ObeJh.js";import{t}from"./TransformTool-DgP_H7Jq.js";import{r as n}from"./utils-49EXUTDp.js";var r=e();function i(){return(0,r.jsx)(t,{title:`MD5 Generator`,description:`ولّد بصمة MD5 لأي نص فوريًا`,placeholder:`اكتب النص هنا...`,rows:4,transform:n})}export{i as default};

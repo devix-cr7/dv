@@ -1,1 +1,0 @@
-import{t as e}from"./index-C-72bdKm.js";import{t}from"./TransformTool-B66bGKTk.js";import{a as n}from"./utils-DQ3UmFa3.js";var r=e();function i(){return(0,r.jsx)(t,{title:`Slug Generator`,description:`حوّل العناوين إلى slug مناسب للروابط`,placeholder:`مقال عن أدوات المطورين الجديدة!`,outputLabel:`Slug`,rows:4,transform:e=>({output:n(e)})})}export{i as default};

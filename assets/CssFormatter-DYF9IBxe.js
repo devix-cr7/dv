@@ -1,0 +1,1 @@
+import{r as e}from"./index-BG5ObeJh.js";import{t}from"./TransformTool-DgP_H7Jq.js";import{t as n}from"./utils-bKL6RO1S.js";var r=e();function i(){return(0,r.jsx)(t,{title:`CSS Formatter`,description:`نسّق أكواد CSS لتصبح منظمة ومقروءة`,placeholder:`.box { color: red; padding: 10px; }`,downloadFilename:`formatted.css`,downloadMime:`text/css`,transform:n})}export{i as default};

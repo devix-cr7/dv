@@ -1,1 +1,0 @@
-import{t as e}from"./index-C-72bdKm.js";import{c as t,l as n,s as r}from"./utils-DnpkSCl3.js";var i=e();function a(){return(0,i.jsx)(n,{title:`URL Encode / Decode`,description:`رمّز أو فك ترميز الروابط (URL)`,encode:t,decode:r,placeholder:`https://example.com/?q=مرحبا`})}export{a as default};

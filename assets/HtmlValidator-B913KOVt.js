@@ -1,0 +1,1 @@
+import{r as e}from"./index-BG5ObeJh.js";import{i as t,t as n}from"./utils-BoizKiVf.js";var r=e();function i(){return(0,r.jsx)(t,{title:`HTML Validator`,description:`تحقق من تطابق وسوم HTML واكتشف الأخطاء البنيوية`,placeholder:`<div><p>Hello</p></div>`,validate:n})}export{i as default};

@@ -1,1 +1,0 @@
-import{t as e}from"./index-C-72bdKm.js";import{a as t,l as n,o as r}from"./utils-DnpkSCl3.js";var i=e();function a(){return(0,i.jsx)(n,{title:`Unicode Encode / Decode`,description:`رمّز أو فك ترميز النصوص إلى Unicode escape`,encode:r,decode:t,placeholder:`مرحبا`})}export{a as default};

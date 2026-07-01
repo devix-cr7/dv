@@ -1,0 +1,1 @@
+import{r as e}from"./index-BG5ObeJh.js";import{a as t,l as n,o as r}from"./utils-CQJ_d-68.js";var i=e();function a(){return(0,i.jsx)(n,{title:`Unicode Encode / Decode`,description:`رمّز أو فك ترميز النصوص إلى Unicode escape`,encode:r,decode:t,placeholder:`مرحبا`})}export{a as default};
